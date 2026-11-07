@@ -9,6 +9,21 @@ comes from: the architecture of a system regulates the people in it as surely as
 does, whether or not anyone wrote the rule down. Most of what follows is either upstream of
 that idea, downstream of it, or a counterweight to it.
 
+Two passages from the first chapter of *Code 2.0* (2006, pp. 5–6), which is free to read:
+
+> In real space, we recognize how laws regulate—through constitutions, statutes, and other
+> legal codes. In cyberspace we must understand how a different "code" regulates—how the
+> software and hardware (i.e., the "code" of cyberspace) that make cyberspace what it is
+> also regulate cyberspace as it is.
+
+> We can build, or architect, or code cyberspace to protect values that we believe are
+> fundamental. Or we can build, or architect, or code cyberspace to allow those values to
+> disappear. There is no middle ground. There is no choice that does not include some
+> kind of building. Code is never found; it is only ever made, and only ever made by us.
+
+The second one is the working rule behind this list. Every system enforces some policy;
+the only question is whether the people inside it can read the policy and who got to write it.
+
 | Area | What it covers |
 |---|---|
 | [Code is law](code-is-law.md) | Lessig and the lineage before and after him: lex informatica, open-code governance, regulating code, law-is-code, and the tools that make policy executable |
