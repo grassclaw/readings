@@ -11,7 +11,9 @@ a practice. The order below is the order to read them in.
 1. [Lex Informatica: The Formulation of Information Policy Rules through Technology](https://ir.lawnet.fordham.edu/faculty_scholarship/42/) (Reidenberg, 1998)
    - *Why*: The year before *Code*, Reidenberg argued that technical standards and system
      design are a source of policy rules in their own right, with their own jurisdiction.
-     Read it to see the idea arrive without the slogan.
+     Read it to see the idea arrive without the slogan. Lessig credits him by name on
+     page 5 of *Code 2.0*: "'Lex Informatica,' as Joel Reidenberg first put it, or better,
+     'code is law.'"
 
 ## Lessig
 
